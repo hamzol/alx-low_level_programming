@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * main - Prints "Hamzology followed by a new line.
@@ -6,15 +6,15 @@
  */
 int main(void)
 {
-	_putchar('H');
+	_putchar('');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
 	_putchar('a');
-	_putchar('m');
-	_putchar('z');
-	_putchar('o');
-	_putchar('l');
-	_putchar('o');
-	_putchar('g');
-	_putchar('y');
+	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
